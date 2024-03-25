@@ -1,5 +1,5 @@
-![image](https://github.com/9roomthon-sixpack/.github/assets/108683454/4bc6876c-d4f8-489e-95a9-4732ee1de752)![image](https://github.com/9roomthon-sixpack/.github/assets/108683454/28fc5ee6-446b-4002-ac30-07532958fa1b)
-🌸구름톤 univ에서 만난 6명의 이들이 만든 프로젝트 "식스펙"
+🌸구름톤 univ에서 만난 6명의 이들이 만든 프로젝트 "식스펙"  
+![image](https://github.com/9roomthon-sixpack/.github/assets/108683454/28fc5ee6-446b-4002-ac30-07532958fa1b)
 # 식(食)스펙이란?
 **"음식도 스펙이다"**
 소상공인분들의 부담을 덜고자 누구나 음식도 스펙으로 만들 수 있다는 슬로건  
@@ -12,8 +12,7 @@
 ### 문제인식
 #### 판매자 flow 
 **홍보, 수요조사에 약한 지역 소상공인분들은 새로운 시도나 홍보를 하기 힘든 환경**  
-![image](https://github.com/9roomthon-sixpack/.github/assets/108683454/6f03abdb-f39e-474f-a05c-0f3fdefc3da1)  
-  
+![image](https://github.com/9roomthon-sixpack/.github/assets/108683454/4bc6876c-d4f8-489e-95a9-4732ee1de752)
 신메뉴 이벤트를 하더라도 대부분, 이렇게 직접 가야만 볼 수 있는 포스터에 의존
 식스펙의 지역 기반 펀딩 시스템을 이용하여 누구나 쉽게 그 동네 사람들에게 신메뉴, 입점정보, 이벤트 같은 것들을 홍보하거나 수요를 조사하여  
 더 많은 참여+더 적은 리스크의 효과를 누릴 수 있음
@@ -32,3 +31,10 @@ FE: 식스펙 웹사이트 구성 + 디자인
 BE: FE+BE연동, 데이터베이스 + 서버
 AI: AI 해시태그 생성, 해시태그 기반 AI 검색
 
+**팀원 소개**  
+이민우 - 기획, AI  
+이주성 - Design  
+김윤섭 - Front-end  
+권지민 - Front-end  
+김건- Back-end  
+김윤섭 - Back-end
