@@ -37,4 +37,4 @@ AI: AI 해시태그 생성, 해시태그 기반 AI 검색
 김윤섭 - Front-end  
 권지민 - Front-end  
 김건- Back-end  
-김윤섭 - Back-end
+이원빈 - Back-end
